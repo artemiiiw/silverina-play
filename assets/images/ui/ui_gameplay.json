@@ -1,0 +1,1983 @@
+{
+  "frames": {
+    "ui_gameplay/bck_boosters_shop.png": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 719,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 719,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 719,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_icon.png": {
+      "frame": {
+        "x": 4,
+        "y": 109,
+        "w": 260,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 260
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_container_3_on.png": {
+      "frame": {
+        "x": 4,
+        "y": 377,
+        "w": 226,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_container_3_off.png": {
+      "frame": {
+        "x": 4,
+        "y": 617,
+        "w": 226,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_container_2_on.png": {
+      "frame": {
+        "x": 272,
+        "y": 109,
+        "w": 226,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_container_2_off.png": {
+      "frame": {
+        "x": 238,
+        "y": 377,
+        "w": 226,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_container_1_on.png": {
+      "frame": {
+        "x": 238,
+        "y": 617,
+        "w": 226,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_container_1_off.png": {
+      "frame": {
+        "x": 506,
+        "y": 109,
+        "w": 226,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/background_box_boss.png": {
+      "frame": {
+        "x": 4,
+        "y": 857,
+        "w": 585,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 585,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 585,
+        "h": 85
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/brights.png": {
+      "frame": {
+        "x": 472,
+        "y": 349,
+        "w": 229,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/box_game_mode.png": {
+      "frame": {
+        "x": 740,
+        "y": 4,
+        "w": 292,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 292,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/hud_top_ui.png": {
+      "frame": {
+        "x": 472,
+        "y": 525,
+        "w": 320,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_off_2.png": {
+      "frame": {
+        "x": 472,
+        "y": 632,
+        "w": 200,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 157
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_off_3.png": {
+      "frame": {
+        "x": 740,
+        "y": 130,
+        "w": 198,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 157
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_off_1.png": {
+      "frame": {
+        "x": 709,
+        "y": 349,
+        "w": 198,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 157
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_glow_3.png": {
+      "frame": {
+        "x": 597,
+        "y": 797,
+        "w": 197,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_glow_2.png": {
+      "frame": {
+        "x": 1040,
+        "y": 4,
+        "w": 197,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_glow_1.png": {
+      "frame": {
+        "x": 680,
+        "y": 632,
+        "w": 197,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_3.png": {
+      "frame": {
+        "x": 946,
+        "y": 168,
+        "w": 197,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_2.png": {
+      "frame": {
+        "x": 915,
+        "y": 332,
+        "w": 197,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_1.png": {
+      "frame": {
+        "x": 1245,
+        "y": 4,
+        "w": 197,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_UI_bar_base.png": {
+      "frame": {
+        "x": 885,
+        "y": 514,
+        "w": 104,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 295
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/box_score.png": {
+      "frame": {
+        "x": 4,
+        "y": 950,
+        "w": 414,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 414,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 414,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters.png": {
+      "frame": {
+        "x": 426,
+        "y": 961,
+        "w": 468,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 468,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 468,
+        "h": 51
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/cs_glow_lock.png": {
+      "frame": {
+        "x": 1151,
+        "y": 168,
+        "w": 128,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 167
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/box_game_mode_super_hard.png": {
+      "frame": {
+        "x": 802,
+        "y": 817,
+        "w": 173,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/box_game_mode_hard.png": {
+      "frame": {
+        "x": 1450,
+        "y": 4,
+        "w": 173,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_selected.png": {
+      "frame": {
+        "x": 997,
+        "y": 496,
+        "w": 132,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 132,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/minilineblast_icon.png": {
+      "frame": {
+        "x": 1120,
+        "y": 343,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magicbeam_icon.png": {
+      "frame": {
+        "x": 1287,
+        "y": 168,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/ff_color_bomb_placeholder.png": {
+      "frame": {
+        "x": 997,
+        "y": 636,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/dart_icon.png": {
+      "frame": {
+        "x": 1631,
+        "y": 4,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/color_bomb_icon.png": {
+      "frame": {
+        "x": 983,
+        "y": 817,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/arcane_icon.png": {
+      "frame": {
+        "x": 1450,
+        "y": 121,
+        "w": 130,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/border_boosters_selected_up.png": {
+      "frame": {
+        "x": 902,
+        "y": 955,
+        "w": 264,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 63
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_selected_up.png": {
+      "frame": {
+        "x": 1137,
+        "y": 481,
+        "w": 264,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 63
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/cs_lock.png": {
+      "frame": {
+        "x": 1769,
+        "y": 4,
+        "w": 130,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_boss.png": {
+      "frame": {
+        "x": 1287,
+        "y": 306,
+        "w": 121,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 121,
+        "h": 124
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/ribbon_egp_super_hard.png": {
+      "frame": {
+        "x": 1137,
+        "y": 552,
+        "w": 189,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/ribbon_egp_hard.png": {
+      "frame": {
+        "x": 1588,
+        "y": 142,
+        "w": 189,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/popup_glow.png": {
+      "frame": {
+        "x": 1907,
+        "y": 4,
+        "w": 119,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 119
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/popup_glare.png": {
+      "frame": {
+        "x": 1135,
+        "y": 638,
+        "w": 115,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 115,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_base.png": {
+      "frame": {
+        "x": 1425,
+        "y": 259,
+        "w": 113,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 113,
+        "h": 113
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_morgana_mode.png": {
+      "frame": {
+        "x": 1121,
+        "y": 774,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_normal.png": {
+      "frame": {
+        "x": 1785,
+        "y": 133,
+        "w": 98,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/cs_top_lock.png": {
+      "frame": {
+        "x": 1588,
+        "y": 228,
+        "w": 107,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 107,
+        "h": 88
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/hud_top_ui_super_hard.png": {
+      "frame": {
+        "x": 1121,
+        "y": 882,
+        "w": 161,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/hud_top_ui_hard.png": {
+      "frame": {
+        "x": 1416,
+        "y": 380,
+        "w": 161,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bar_empty.png": {
+      "frame": {
+        "x": 1258,
+        "y": 446,
+        "w": 406,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 406,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 406,
+        "h": 21
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_normal_up.png": {
+      "frame": {
+        "x": 1258,
+        "y": 638,
+        "w": 208,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_ghost_mode_w.png": {
+      "frame": {
+        "x": 1891,
+        "y": 133,
+        "w": 100,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_boss_mode_w.png": {
+      "frame": {
+        "x": 1174,
+        "y": 948,
+        "w": 101,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_clear_all_w.png": {
+      "frame": {
+        "x": 1258,
+        "y": 684,
+        "w": 100,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_lineblast.png": {
+      "frame": {
+        "x": 1229,
+        "y": 762,
+        "w": 82,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_arcane.png": {
+      "frame": {
+        "x": 1703,
+        "y": 242,
+        "w": 82,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_number_2off.png": {
+      "frame": {
+        "x": 800,
+        "y": 514,
+        "w": 66,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_number_2.png": {
+      "frame": {
+        "x": 1409,
+        "y": 475,
+        "w": 66,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_number_3off.png": {
+      "frame": {
+        "x": 1585,
+        "y": 324,
+        "w": 64,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_number_3.png": {
+      "frame": {
+        "x": 1891,
+        "y": 215,
+        "w": 64,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/add_button.png": {
+      "frame": {
+        "x": 1793,
+        "y": 242,
+        "w": 79,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_normal_side.png": {
+      "frame": {
+        "x": 1999,
+        "y": 131,
+        "w": 27,
+        "h": 203
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 203
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 203
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_normal_side_r.png": {
+      "frame": {
+        "x": 1963,
+        "y": 215,
+        "w": 26,
+        "h": 203
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 203
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 203
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bck_boosters_gradient.png": {
+      "frame": {
+        "x": 1657,
+        "y": 332,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/box_score_super_hard.png": {
+      "frame": {
+        "x": 1483,
+        "y": 475,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/box_score_hard.png": {
+      "frame": {
+        "x": 1290,
+        "y": 852,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/gizmo_base.png": {
+      "frame": {
+        "x": 1319,
+        "y": 761,
+        "w": 70,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/boosters_number_selected.png": {
+      "frame": {
+        "x": 1283,
+        "y": 948,
+        "w": 71,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_number_1off.png": {
+      "frame": {
+        "x": 1737,
+        "y": 332,
+        "w": 45,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 105
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/magichat_number_1.png": {
+      "frame": {
+        "x": 1793,
+        "y": 327,
+        "w": 45,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 105
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_star_mode_w.png": {
+      "frame": {
+        "x": 1334,
+        "y": 552,
+        "w": 56,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/icon_fairies.png": {
+      "frame": {
+        "x": 1366,
+        "y": 684,
+        "w": 72,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/x3_background.png": {
+      "frame": {
+        "x": 1483,
+        "y": 547,
+        "w": 58,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 61
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/infinite.png": {
+      "frame": {
+        "x": 472,
+        "y": 797,
+        "w": 70,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 47
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/popup_gold_02.png": {
+      "frame": {
+        "x": 740,
+        "y": 295,
+        "w": 79,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/boosters_number.png": {
+      "frame": {
+        "x": 1571,
+        "y": 475,
+        "w": 54,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/popup_gold_01.png": {
+      "frame": {
+        "x": 997,
+        "y": 774,
+        "w": 88,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/popup_gold_shadow.png": {
+      "frame": {
+        "x": 827,
+        "y": 295,
+        "w": 83,
+        "h": 28
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 28
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/big_star_bar_off.png": {
+      "frame": {
+        "x": 1398,
+        "y": 581,
+        "w": 48,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/symbol_equal.png": {
+      "frame": {
+        "x": 550,
+        "y": 797,
+        "w": 37,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 31
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/bg_gradient.png": {
+      "frame": {
+        "x": 946,
+        "y": 130,
+        "w": 26,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 26
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/gizmo_pointer.png": {
+      "frame": {
+        "x": 272,
+        "y": 349,
+        "w": 42,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 16
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui_gameplay/goal.png": {
+      "frame": {
+        "x": 980,
+        "y": 130,
+        "w": 5,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 21
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "ui_gameplay.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,80 @@
+BW3S_Halloween_Title,"Лунный ловец"
+BW3S_Halloween_Title_Linebreak,"Лунный 
+ловец"
+button_buy_all,"Купить все"
+button_claim,Взять
+button_continue,Продолжить
+button_okay,OK
+button_start,Начать
+congrats_title,Поздравляем!
+how_to_play,"Как играть"
+knockout_complete,"Поздравляем! Тебе удалось пройти испытание! "
+knockout_description,"Пройди {0} уровней подряд и получи свою долю из {1} Золотых слитков!"
+knockout_failed,"Тебе не удалось пройти испытание. Удачи в следующий раз!"
+knockout_grand_prize,"Главный приз"
+knockout_levels,уровня(-ей)
+knockout_mm_text,"Поиск игроков..."
+knockout_players,игрока(-ов)
+knockout_title,"Облачное испытание"
+knockout_tutorial_1,"Начни испытание с {0} игроками!"
+knockout_tutorial_2,"Проходи уровни с первой попытки"
+knockout_tutorial_3,"Получи свою долю из {0} Золотых слитков"
+knockout_win_goldbars,"{0} Золотых слитков"
+knockout_win_text1,"Твой выигрыш:"
+knockout_win_text2,"Награда досталась тебе и еще {0} игрокам!"
+lost_connection_reward_text,"Твои награды в безопасности"
+lost_connection_reward_text2,"Ты сможешь их забрать, когда снова подключишься к сети"
+lr_championsrace,"Гонка чемпионов"
+lr_description,"Пройди {0} уровня(-ей) быстрее всех и получи потрясающие награды!"
+lr_lost,"Гонка завершена. Удачи в следующий раз!"
+lr_stage_tooltip1,"Выиграй следующую гонку и твои награды будут еще круче!"
+lr_stage_tooltip2,"Победи в Гонке чемпионов и тебе достанется главный приз!"
+lr_title,"Жуткая гонка"
+lr_tutorial_text1,"Проходи уровни и лидируй"
+lr_tutorial_text2,"Продолжай выигрывать гонки, и твои награды будут еще круче"
+lr_tutorial_text3,"Пройди все этапы, чтобы попасть в Гонку чемпионов!"
+lr_win_champions,"Ты — победитель Гонки чемпионов!"
+lr_win_text1,"Ты занимаешь 1-е место!"
+lr_win_text2,"Ты занимаешь 2-е место!"
+lr_win_text3,"Ты занимаешь 3-е место!"
+lr_you,Ты
+pao_text,"Выбери один набор или возьми все!"
+pao_title,"Выбери одно предложение"
+popup_bob_NewEpisode_title,"Скоро появятся новые уровни."
+popup_egp_watchanother_ads,"Посмотри рекламу и победи"
+popup_egp_watchanother_allrewards,"Все награды получены"
+popup_egp_watchanother_error_text,"Что-то пошло не так. Пожалуйста, попробуй снова!"
+popup_egp_watchanother_message1,"Посмотри другую рекламу и получи больше наград!"
+popup_egp_watchanother_message2,"Вернись в игру и пройди уровень!"
+popup_egp_watchanother_reward,"Награда получена"
+popup_general_button_watchanother,"Еще одну"
+popup_lqc_message1,"Не сдавайся! Продолжай играть, чтобы ничего не пропустить!"
+popup_lqc_title,Точно-точно?
+position_1,1
+position_2,2
+position_3,3
+position_4,4
+position_5,5
+position_6,6
+position_7,7
+position_8,8
+tag_best_value,"Лучшая цена"
+tag_discount,"Сэкономь {0} %"
+tag_most_popular,"Самое популярное"
+tap_to_continue,"Коснись и продолжи"
+title_success,"Покупка оформлена!"
+wc_hard_level_points,"За этот уровень ты получишь {0} очков!"
+wc_multiplier_tutorial_text,"Получай x{0} очков за каждый пройденный уровень!"
+wc_multiplier_tutorial_title,"Мультипликатор активирован!"
+wc_text,"Пройди как можно больше уровней"
+wc_title,"Заколдованное испытание"
+wc_tutorial_1point,"1 очко"
+wc_tutorial_points,"{0} очка(-ов)"
+wc_tutorial_text1,"Проходи уровни"
+wc_tutorial_text2,"Поднимись на вершину списка лидеров"
+wc_tutorial_text3,"Выигрывай призы"
+wc_weekend_multiplier,x{0}
+wc_win_text1,"По итогам Зачарованного испытания ты занимаешь 1-е место!"
+wc_win_text2,"По итогам Зачарованного испытания ты занимаешь 2-е место!"
+wc_win_text3,"По итогам Зачарованного испытания ты занимаешь 3-е место!"
+wc_win_title,Поздравляем!

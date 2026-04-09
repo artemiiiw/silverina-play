@@ -1,0 +1,81 @@
+BW3S_Halloween_Title,"Moon Chase"
+BW3S_Halloween_Title_Linebreak,"Moon 
+Chase"
+button_buy_all,"Buy All"
+button_claim,Claim
+button_continue,Continue
+button_okay,Okay
+button_start,Start
+congrats_title,Congratulations!
+how_to_play,"How to play"
+knockout_complete,"Congratulations! You completed the challenge! "
+knockout_description,"Beat {0} levels in a row to win your share of {1} Gold Bars!"
+knockout_failed,"You failed the challenge. Better luck next time!"
+knockout_grand_prize,"Grand prize"
+knockout_levels,Levels
+knockout_mm_text,"Finding players..."
+knockout_players,Players
+knockout_title,"Cloud Trial"
+knockout_tutorial_1,"Start the challenge with {0} players!"
+knockout_tutorial_2,"Pass levels on the first try"
+knockout_tutorial_3,"Earn your share of {0} Gold Bars!"
+knockout_win_goldbars,"{0} Gold Bars"
+knockout_win_text1,"You won:"
+knockout_win_text2,"You shared the reward with {0} players!"
+lost_connection_reward_text,"Your rewards are safe"
+lost_connection_reward_text2,"You can claim them when you're back online"
+lr_championsrace,"Champion's Race"
+lr_description,"Be the first to beat {0} levels and win amazing rewards!"
+lr_lost,"The race is over. Better luck next time!"
+lr_stage_tooltip1,"Win the next race and get better rewards!"
+lr_stage_tooltip2,"Beat the Champion's Race and claim the Grand Prize!"
+lr_title,"Boo-ble Race"
+lr_tutorial_text1,"Beat levels and take the lead"
+lr_tutorial_text2,"Keep winning races to get better rewards"
+lr_tutorial_text3,"Beat all stages to enter the Champion's Race!"
+lr_win_champions,"You won the Champion's Race!"
+lr_win_text1,"You got 1st place!"
+lr_win_text2,"You got 2nd place!"
+lr_win_text3,"You got 3rd place!"
+lr_you,You
+pao_text,"Choose a pack or take them all!"
+pao_title,"Pick One Offer"
+popup_PlayToJoin_description,"Play all levels to join"
+popup_bob_NewEpisode_title,"New levels coming soon."
+popup_egp_watchanother_ads,"Watch ads to win"
+popup_egp_watchanother_allrewards,"All rewards collected"
+popup_egp_watchanother_error_text,"Something went wrong, please try again later!"
+popup_egp_watchanother_message1,"Watch another ad to win more rewards!"
+popup_egp_watchanother_message2,"Go back and win the level!"
+popup_egp_watchanother_reward,"Reward collected"
+popup_general_button_watchanother,"Watch another"
+popup_lqc_message1,"Don’t give up! Keep playing, so that you don’t miss out!"
+popup_lqc_title,"Are you sure?"
+position_1,1st
+position_2,2nd
+position_3,3rd
+position_4,4th
+position_5,5th
+position_6,6th
+position_7,7th
+position_8,8th
+tag_best_value,"Best Value"
+tag_discount,"Save {0}%"
+tag_most_popular,"Most Popular"
+tap_to_continue,"Tap to continue"
+title_success,Success!
+wc_hard_level_points,"This level gives {0} points!"
+wc_multiplier_tutorial_text,"Get x{0} points for every level you pass!"
+wc_multiplier_tutorial_title,"Multiplier is on!"
+wc_text,"Win as many levels as you can"
+wc_title,"Spellbound Contest"
+wc_tutorial_1point,"1 point"
+wc_tutorial_points,"{0} points"
+wc_tutorial_text1,"Beat levels"
+wc_tutorial_text2,"Climb to the podium"
+wc_tutorial_text3,"Win rewards!"
+wc_weekend_multiplier,x{0}
+wc_win_text1,"You finished Spellbound Contest in 1st place!"
+wc_win_text2,"You finished Spellbound Contest in 2nd place!"
+wc_win_text3,"You finished Spellbound Contest in 3rd place!"
+wc_win_title,Congratulations!

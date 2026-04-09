@@ -1,0 +1,16 @@
+canvas_endcontent_text,"Sorry, we’re not releasing any more levels here! But brand new levels await on Bubble Witch 3 Saga mobile!"
+canvas_endcontent_title,"Play on mobile!"
+canvas_fatal_error,"An error has occurred. We are doing our best to fix it, please try again."
+canvas_memory_error,"Please install the 64 bit version of your browser."
+canvas_missing_webgl,"We cannot run WebGL, please go to {0} to check that you have the proper drivers installed for your graphic card and get further instructions."
+canvas_unsupported_browser,"Uh-oh, we don't support this browser."
+canvas_unsupported_browser_android,"Please download the game from Google Play Store or play it on a desktop browser!"
+canvas_unsupported_browser_incompatible,"Please use another browser."
+canvas_unsupported_browser_ios,"Please download the game from Apple App Store or play it on a desktop browser!"
+canvas_unsupported_browser_other,"Please use a desktop browser."
+canvas_unsupported_browser_wp,"Please download the game from the Windows Store or play it on a desktop browser!"
+faqs,FAQ
+privacy_policy,"Privacy Policy"
+terms_of_service,"Terms of Service"
+wilbur_fan_page,"Fan page"
+wilbur_forum,Forum

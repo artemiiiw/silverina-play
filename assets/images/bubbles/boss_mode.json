@@ -1,0 +1,543 @@
+{
+  "frames": {
+    "boss_mode/boss_shield_storm_dark.png": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 269,
+        "h": 394
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 269,
+        "h": 394
+      },
+      "sourceSize": {
+        "w": 269,
+        "h": 394
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_storm_bright.png": {
+      "frame": {
+        "x": 281,
+        "y": 4,
+        "w": 243,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_margin_strong.png": {
+      "frame": {
+        "x": 281,
+        "y": 249,
+        "w": 179,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 179,
+        "h": 179
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_hexagon.png": {
+      "frame": {
+        "x": 532,
+        "y": 4,
+        "w": 162,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_halo.png": {
+      "frame": {
+        "x": 4,
+        "y": 406,
+        "w": 101,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_sphere.png": {
+      "frame": {
+        "x": 113,
+        "y": 406,
+        "w": 83,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__face.png": {
+      "frame": {
+        "x": 204,
+        "y": 436,
+        "w": 89,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_04.png": {
+      "frame": {
+        "x": 468,
+        "y": 249,
+        "w": 63,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 88
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_06.png": {
+      "frame": {
+        "x": 532,
+        "y": 153,
+        "w": 59,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 88
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/vortex_central_glow.png": {
+      "frame": {
+        "x": 301,
+        "y": 436,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__face_shadow.png": {
+      "frame": {
+        "x": 381,
+        "y": 436,
+        "w": 83,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_08.png": {
+      "frame": {
+        "x": 702,
+        "y": 4,
+        "w": 54,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_02.png": {
+      "frame": {
+        "x": 472,
+        "y": 345,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 84
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_12.png": {
+      "frame": {
+        "x": 764,
+        "y": 4,
+        "w": 54,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_01.png": {
+      "frame": {
+        "x": 599,
+        "y": 153,
+        "w": 44,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__ball_flame.png": {
+      "frame": {
+        "x": 472,
+        "y": 437,
+        "w": 54,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_16.png": {
+      "frame": {
+        "x": 539,
+        "y": 249,
+        "w": 35,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__throat_flame.png": {
+      "frame": {
+        "x": 826,
+        "y": 4,
+        "w": 49,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/boss_shield_00.png": {
+      "frame": {
+        "x": 883,
+        "y": 4,
+        "w": 34,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__jaw.png": {
+      "frame": {
+        "x": 204,
+        "y": 406,
+        "w": 45,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__jaw_shadow.png": {
+      "frame": {
+        "x": 702,
+        "y": 99,
+        "w": 39,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 15
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "boss_mode/skull_bm__eyebrow.png": {
+      "frame": {
+        "x": 113,
+        "y": 497,
+        "w": 34,
+        "h": 12
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 12
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 12
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "boss_mode.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,55 @@
+iape_goldbar_balance_earned,Earned:
+iape_goldbar_balance_free,Free:
+iape_goldbar_balance_lastupdated,"Last updated:"
+iape_goldbar_balance_purchased,Purchased:
+iape_goldbar_balance_title,"Gold Bar balance"
+iape_goldbard_balance_notavailable,N/A
+iape_goldbard_balance_updatein24h,"Information will be updated in 24 hours"
+library_store_best_value,"Best Value"
+popup_shop_last_chance,"Last Chance!"
+shop_banner_name,"Violet "
+shop_bundles,Bundles
+shop_button_show_less,"Show Less"
+shop_button_show_more,"Show More"
+shop_button_special_offer,"Special Offer"
+shop_celebration_violet,"Wonderful! Your purchase was successful"
+shop_daily_offers,"Daily offers"
+shop_delayed_purchase_success_text,"Your pending purchase is now confirmed. Sorry for the delay!"
+shop_error_after_payment_message,"There was a technical issue. Please contact customer support!"
+shop_error_after_payment_title,"Purchase failed"
+shop_error_already_pending_message,"You already have a purchase pending."
+shop_error_already_pending_title,"One at a time"
+shop_error_help_me,"Help me"
+shop_error_more_info,"More info"
+shop_error_no_connection_title,"No connection!"
+shop_error_product_outdated_message,"This product no longer exists in the shop"
+shop_error_product_outdated_title,"Out of stock"
+shop_error_product_unavailable_message,"Product not available, please try again in a few minutes."
+shop_error_product_unavailable_title,"Wrong product"
+shop_error_purchase_canceled_message,"You canceled the purchase"
+shop_error_purchase_canceled_title,"Purchase canceled"
+shop_error_purchase_deferred_message,"Your purchase needs to be confirmed by your parents."
+shop_error_purchase_deferred_title,"Purchase deferred"
+shop_error_purchase_pending_message,"The shop is a bit slow. You'll receive your purchase soon."
+shop_error_purchase_pending_title,"Purchase pending"
+shop_error_shop_downtime_message,"No products available at the moment"
+shop_error_shop_downtime_title,"Shop is closed"
+shop_error_shop_unreachable_message,"The shop is not working for the moment."
+shop_error_shop_unreachable_title,"Out of order"
+shop_error_unknown_message,"There was a problem. You haven't been charged. Please contact us if the error persists."
+shop_goldbars,"Gold Bars"
+shop_limited_offer,"Limited offer"
+shop_more_offers,"More offers"
+shop_new_name,"Violet 
+Shop"
+shop_popular,Popular
+shop_purchase_success_message,"Purchase success"
+shop_recommended,"Great Deal! "
+shop_recommended2,"Recommended for you!"
+shop_sale_title,Sale!
+shop_sales_title,Sales
+shop_sales_valentine,"Valentine's Sales"
+shop_sales_violet,"Wow! What an amazing offer!"
+shop_title,"Magical Shop"
+shopr_error_unknown_message,"There was a problem. You haven't been charged. Learn more about it or contact us if the error persists."
+shopr_error_unknown_title,Oops...

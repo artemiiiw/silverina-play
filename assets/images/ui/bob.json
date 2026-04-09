@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "bob/frame_laurel.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/trophy.png": {
+      "frame": {
+        "x": 2,
+        "y": 262,
+        "w": 231,
+        "h": 240
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 231,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 231,
+        "h": 240
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_stadium.png": {
+      "frame": {
+        "x": 262,
+        "y": 2,
+        "w": 200,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 222
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/frame_laurel_2d.png": {
+      "frame": {
+        "x": 237,
+        "y": 262,
+        "w": 226,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 186
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_line01.png": {
+      "frame": {
+        "x": 466,
+        "y": 2,
+        "w": 81,
+        "h": 148
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 81,
+        "h": 148
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/gold_sticker01.png": {
+      "frame": {
+        "x": 551,
+        "y": 2,
+        "w": 70,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/gold_sticker02.png": {
+      "frame": {
+        "x": 466,
+        "y": 154,
+        "w": 63,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_cloud02.png": {
+      "frame": {
+        "x": 237,
+        "y": 452,
+        "w": 99,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_stadium_sky.png": {
+      "frame": {
+        "x": 625,
+        "y": 2,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_stadium_floor.png": {
+      "frame": {
+        "x": 551,
+        "y": 109,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_line02.png": {
+      "frame": {
+        "x": 340,
+        "y": 452,
+        "w": 71,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 41
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bob/bob_bg_cloud01.png": {
+      "frame": {
+        "x": 262,
+        "y": 228,
+        "w": 65,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 25
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "bob.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": "1"
+  }
+}

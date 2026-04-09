@@ -1,0 +1,12 @@
+{
+  "totalLevels": 50,
+  "chunkSize": 50,
+  "totalChunks": 1,
+  "chunks": [
+    {
+      "file": "chunk_001.json",
+      "startLevel": 1,
+      "endLevel": 50
+    }
+  ]
+}

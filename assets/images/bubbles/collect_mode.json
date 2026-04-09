@@ -1,0 +1,1431 @@
+{
+  "frames": {
+    "collect_mode/LightBeams_02.png": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 222,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 222,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 222,
+        "h": 220
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/BallEnergy.png": {
+      "frame": {
+        "x": 4,
+        "y": 232,
+        "w": 126,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/Glow.png": {
+      "frame": {
+        "x": 234,
+        "y": 4,
+        "w": 119,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 119
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_yellow.png": {
+      "frame": {
+        "x": 361,
+        "y": 4,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_pink.png": {
+      "frame": {
+        "x": 4,
+        "y": 366,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_green.png": {
+      "frame": {
+        "x": 234,
+        "y": 131,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_blue.png": {
+      "frame": {
+        "x": 138,
+        "y": 249,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_B_yellow.png": {
+      "frame": {
+        "x": 479,
+        "y": 4,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_B_pink.png": {
+      "frame": {
+        "x": 4,
+        "y": 484,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_B_green.png": {
+      "frame": {
+        "x": 361,
+        "y": 122,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_B_blue.png": {
+      "frame": {
+        "x": 122,
+        "y": 367,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_B.png": {
+      "frame": {
+        "x": 597,
+        "y": 4,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_trapped_A.png": {
+      "frame": {
+        "x": 4,
+        "y": 602,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/bubble_highlights.png": {
+      "frame": {
+        "x": 256,
+        "y": 249,
+        "w": 107,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 107,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0016.png": {
+      "frame": {
+        "x": 715,
+        "y": 4,
+        "w": 106,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0015.png": {
+      "frame": {
+        "x": 4,
+        "y": 720,
+        "w": 106,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0014.png": {
+      "frame": {
+        "x": 479,
+        "y": 122,
+        "w": 106,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0007.png": {
+      "frame": {
+        "x": 122,
+        "y": 485,
+        "w": 106,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0006.png": {
+      "frame": {
+        "x": 829,
+        "y": 4,
+        "w": 106,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0005.png": {
+      "frame": {
+        "x": 4,
+        "y": 834,
+        "w": 106,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0009.png": {
+      "frame": {
+        "x": 240,
+        "y": 367,
+        "w": 105,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0008.png": {
+      "frame": {
+        "x": 371,
+        "y": 240,
+        "w": 105,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0004.png": {
+      "frame": {
+        "x": 593,
+        "y": 122,
+        "w": 107,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 107,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0011.png": {
+      "frame": {
+        "x": 4,
+        "y": 948,
+        "w": 101,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0010.png": {
+      "frame": {
+        "x": 122,
+        "y": 599,
+        "w": 101,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0003.png": {
+      "frame": {
+        "x": 240,
+        "y": 455,
+        "w": 106,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0002.png": {
+      "frame": {
+        "x": 122,
+        "y": 680,
+        "w": 106,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 61
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0001.png": {
+      "frame": {
+        "x": 715,
+        "y": 118,
+        "w": 106,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 61
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_body_yellow.png": {
+      "frame": {
+        "x": 943,
+        "y": 4,
+        "w": 76,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_body_red.png": {
+      "frame": {
+        "x": 484,
+        "y": 236,
+        "w": 76,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_body_pink.png": {
+      "frame": {
+        "x": 371,
+        "y": 328,
+        "w": 76,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_body_green.png": {
+      "frame": {
+        "x": 118,
+        "y": 749,
+        "w": 76,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_body_blue.png": {
+      "frame": {
+        "x": 943,
+        "y": 92,
+        "w": 76,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/feather_icon_yellow.png": {
+      "frame": {
+        "x": 236,
+        "y": 531,
+        "w": 65,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/feather_icon_red.png": {
+      "frame": {
+        "x": 829,
+        "y": 118,
+        "w": 65,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/feather_icon_pink.png": {
+      "frame": {
+        "x": 118,
+        "y": 837,
+        "w": 65,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/feather_icon_green.png": {
+      "frame": {
+        "x": 593,
+        "y": 206,
+        "w": 65,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/feather_icon_blue.png": {
+      "frame": {
+        "x": 354,
+        "y": 416,
+        "w": 65,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/feather_owl_mode_icon.png": {
+      "frame": {
+        "x": 455,
+        "y": 328,
+        "w": 61,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 88
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0012.png": {
+      "frame": {
+        "x": 113,
+        "y": 948,
+        "w": 92,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/shinnyBubble_0013.png": {
+      "frame": {
+        "x": 708,
+        "y": 187,
+        "w": 91,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_l_yellow.png": {
+      "frame": {
+        "x": 236,
+        "y": 631,
+        "w": 59,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_l_red.png": {
+      "frame": {
+        "x": 309,
+        "y": 531,
+        "w": 59,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_l_pink.png": {
+      "frame": {
+        "x": 202,
+        "y": 749,
+        "w": 59,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_l_green.png": {
+      "frame": {
+        "x": 524,
+        "y": 324,
+        "w": 59,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_l_blue.png": {
+      "frame": {
+        "x": 666,
+        "y": 245,
+        "w": 59,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_bubble_yellow.png": {
+      "frame": {
+        "x": 191,
+        "y": 837,
+        "w": 49,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_bubble_red.png": {
+      "frame": {
+        "x": 902,
+        "y": 180,
+        "w": 49,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_bubble_pink.png": {
+      "frame": {
+        "x": 959,
+        "y": 180,
+        "w": 49,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_bubble_green.png": {
+      "frame": {
+        "x": 427,
+        "y": 424,
+        "w": 49,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_bubble_blue.png": {
+      "frame": {
+        "x": 591,
+        "y": 306,
+        "w": 49,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_r_yellow.png": {
+      "frame": {
+        "x": 807,
+        "y": 218,
+        "w": 38,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_r_red.png": {
+      "frame": {
+        "x": 733,
+        "y": 245,
+        "w": 38,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_r_pink.png": {
+      "frame": {
+        "x": 309,
+        "y": 608,
+        "w": 38,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_r_green.png": {
+      "frame": {
+        "x": 853,
+        "y": 218,
+        "w": 38,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_wing_r_blue.png": {
+      "frame": {
+        "x": 376,
+        "y": 516,
+        "w": 38,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_eye_l.png": {
+      "frame": {
+        "x": 902,
+        "y": 118,
+        "w": 17,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 22
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_eye_r.png": {
+      "frame": {
+        "x": 568,
+        "y": 236,
+        "w": 14,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 19
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "collect_mode/owl_mouth.png": {
+      "frame": {
+        "x": 353,
+        "y": 366,
+        "w": 9,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 13
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "collect_mode.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}

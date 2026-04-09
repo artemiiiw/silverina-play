@@ -1,0 +1,16 @@
+canvas_endcontent_text,"К сожалению, здесь мы больше не выпускаем новые уровни, но они ждут тебя в мобильной версии Bubble Witch 3 Saga!"
+canvas_endcontent_title,"Играй с телефона!"
+canvas_fatal_error,"Возникла ошибка. Мы делаем все возможное, чтобы исправить ее. Повторите попытку."
+canvas_memory_error,"Установите 64-разрядную версию браузера."
+canvas_missing_webgl,"WebGL не поддерживается. Откройте веб-страницу {0}, чтобы проверить, установлены ли нужные драйверы видеокарты, и получить дополнительные указания."
+canvas_unsupported_browser,"Ой-ой! Мы не поддерживаем этот браузер."
+canvas_unsupported_browser_android,"Загрузите игру из Google Play Store или играйте на компьютере в браузере!"
+canvas_unsupported_browser_incompatible,"Используйте другой браузер."
+canvas_unsupported_browser_ios,"Загрузите игру из Apple App Store или играйте на компьютере в браузере!"
+canvas_unsupported_browser_other,"Используйте браузер для компьютеров."
+canvas_unsupported_browser_wp,"Загрузите игру из Windows Store или играйте в браузере для компьютеров."
+faqs,ЧаВо
+privacy_policy,"Политика конфиденциальности"
+terms_of_service,"Условия пользования"
+wilbur_fan_page,Фан-страница
+wilbur_forum,Форум

@@ -1,0 +1,3351 @@
+{
+  "frames": {
+    "stella/wings.png": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 154,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_skirt_back_6.png": {
+      "frame": {
+        "x": 166,
+        "y": 4,
+        "w": 112,
+        "h": 225
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 225
+      },
+      "sourceSize": {
+        "w": 112,
+        "h": 225
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_0.png": {
+      "frame": {
+        "x": 4,
+        "y": 285,
+        "w": 165,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_skirt_back_right.png": {
+      "frame": {
+        "x": 286,
+        "y": 4,
+        "w": 100,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back.png": {
+      "frame": {
+        "x": 394,
+        "y": 4,
+        "w": 124,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 124,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_back-2.png": {
+      "frame": {
+        "x": 4,
+        "y": 408,
+        "w": 152,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_back-2.png": {
+      "frame": {
+        "x": 177,
+        "y": 237,
+        "w": 152,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_back-2.png": {
+      "frame": {
+        "x": 4,
+        "y": 509,
+        "w": 152,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_back-2.png": {
+      "frame": {
+        "x": 526,
+        "y": 4,
+        "w": 152,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_skirt_front.png": {
+      "frame": {
+        "x": 4,
+        "y": 610,
+        "w": 98,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 137
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_skull.png": {
+      "frame": {
+        "x": 337,
+        "y": 168,
+        "w": 92,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 112
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_skirt_back_left.png": {
+      "frame": {
+        "x": 177,
+        "y": 338,
+        "w": 66,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_skull_01.png": {
+      "frame": {
+        "x": 686,
+        "y": 4,
+        "w": 89,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_skull_02.png": {
+      "frame": {
+        "x": 437,
+        "y": 133,
+        "w": 89,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_skirt_cuff.png": {
+      "frame": {
+        "x": 4,
+        "y": 755,
+        "w": 50,
+        "h": 183
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 183
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 183
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back_02.png": {
+      "frame": {
+        "x": 783,
+        "y": 4,
+        "w": 86,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_back.png": {
+      "frame": {
+        "x": 251,
+        "y": 338,
+        "w": 159,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_skull_7.png": {
+      "frame": {
+        "x": 534,
+        "y": 105,
+        "w": 89,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_back.png": {
+      "frame": {
+        "x": 4,
+        "y": 946,
+        "w": 158,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 158,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 158,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_back.png": {
+      "frame": {
+        "x": 164,
+        "y": 502,
+        "w": 158,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 158,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 158,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_back.png": {
+      "frame": {
+        "x": 110,
+        "y": 610,
+        "w": 158,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 158,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 158,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_wing.png": {
+      "frame": {
+        "x": 62,
+        "y": 755,
+        "w": 163,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_wing.png": {
+      "frame": {
+        "x": 251,
+        "y": 400,
+        "w": 163,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_wing.png": {
+      "frame": {
+        "x": 62,
+        "y": 807,
+        "w": 163,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_wing.png": {
+      "frame": {
+        "x": 631,
+        "y": 120,
+        "w": 163,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_chest_3.png": {
+      "frame": {
+        "x": 877,
+        "y": 4,
+        "w": 77,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_skirt.png": {
+      "frame": {
+        "x": 437,
+        "y": 245,
+        "w": 73,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_thigh_6.png": {
+      "frame": {
+        "x": 962,
+        "y": 4,
+        "w": 51,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 133
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_back.png": {
+      "frame": {
+        "x": 62,
+        "y": 859,
+        "w": 84,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_wing-2.png": {
+      "frame": {
+        "x": 110,
+        "y": 671,
+        "w": 156,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_wing-2.png": {
+      "frame": {
+        "x": 251,
+        "y": 452,
+        "w": 156,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_wing-2.png": {
+      "frame": {
+        "x": 534,
+        "y": 209,
+        "w": 156,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_wing-2.png": {
+      "frame": {
+        "x": 518,
+        "y": 259,
+        "w": 156,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_thigh_2.png": {
+      "frame": {
+        "x": 802,
+        "y": 112,
+        "w": 54,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/expression_00.png": {
+      "frame": {
+        "x": 877,
+        "y": 105,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_chest_2.png": {
+      "frame": {
+        "x": 698,
+        "y": 172,
+        "w": 69,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 90
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_thigh_4.png": {
+      "frame": {
+        "x": 422,
+        "y": 350,
+        "w": 50,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 123
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_chest_6.png": {
+      "frame": {
+        "x": 276,
+        "y": 563,
+        "w": 68,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 90
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_chest_4.png": {
+      "frame": {
+        "x": 518,
+        "y": 309,
+        "w": 63,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 95
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/face_full_lookup.png": {
+      "frame": {
+        "x": 170,
+        "y": 859,
+        "w": 72,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/expression_04.png": {
+      "frame": {
+        "x": 170,
+        "y": 948,
+        "w": 77,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_thigh_1.png": {
+      "frame": {
+        "x": 962,
+        "y": 145,
+        "w": 51,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 112
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_top-2.png": {
+      "frame": {
+        "x": 352,
+        "y": 502,
+        "w": 99,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_top-2.png": {
+      "frame": {
+        "x": 233,
+        "y": 721,
+        "w": 99,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_top-2.png": {
+      "frame": {
+        "x": 589,
+        "y": 309,
+        "w": 99,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_top-2.png": {
+      "frame": {
+        "x": 233,
+        "y": 785,
+        "w": 99,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_wand_01.png": {
+      "frame": {
+        "x": 864,
+        "y": 195,
+        "w": 39,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 139
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_abs_3.png": {
+      "frame": {
+        "x": 775,
+        "y": 237,
+        "w": 62,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_top.png": {
+      "frame": {
+        "x": 480,
+        "y": 412,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_top.png": {
+      "frame": {
+        "x": 352,
+        "y": 567,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_top.png": {
+      "frame": {
+        "x": 250,
+        "y": 849,
+        "w": 73,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_top.png": {
+      "frame": {
+        "x": 589,
+        "y": 373,
+        "w": 73,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back_03.png": {
+      "frame": {
+        "x": 696,
+        "y": 270,
+        "w": 44,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 119
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back_05.png": {
+      "frame": {
+        "x": 911,
+        "y": 195,
+        "w": 42,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_thigh_3.png": {
+      "frame": {
+        "x": 459,
+        "y": 492,
+        "w": 57,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_leg_3_r.png": {
+      "frame": {
+        "x": 340,
+        "y": 661,
+        "w": 42,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_belt_6.png": {
+      "frame": {
+        "x": 255,
+        "y": 929,
+        "w": 74,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_leg_4.png": {
+      "frame": {
+        "x": 961,
+        "y": 265,
+        "w": 43,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 43,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_leg_2.png": {
+      "frame": {
+        "x": 748,
+        "y": 331,
+        "w": 40,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/fx_magic_trail.png": {
+      "frame": {
+        "x": 390,
+        "y": 647,
+        "w": 37,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_abs_6.png": {
+      "frame": {
+        "x": 562,
+        "y": 453,
+        "w": 62,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_abs_2.png": {
+      "frame": {
+        "x": 435,
+        "y": 589,
+        "w": 62,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_leg_1.png": {
+      "frame": {
+        "x": 796,
+        "y": 331,
+        "w": 42,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_leg_6.png": {
+      "frame": {
+        "x": 340,
+        "y": 784,
+        "w": 40,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 107
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_leg_3.png": {
+      "frame": {
+        "x": 670,
+        "y": 397,
+        "w": 47,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 90
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_wand.png": {
+      "frame": {
+        "x": 911,
+        "y": 324,
+        "w": 31,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_wand.png": {
+      "frame": {
+        "x": 846,
+        "y": 342,
+        "w": 31,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/shadow.png": {
+      "frame": {
+        "x": 524,
+        "y": 533,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back_04.png": {
+      "frame": {
+        "x": 337,
+        "y": 899,
+        "w": 52,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_abs_4.png": {
+      "frame": {
+        "x": 435,
+        "y": 669,
+        "w": 47,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 85
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back_01.png": {
+      "frame": {
+        "x": 390,
+        "y": 776,
+        "w": 36,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_wing_star.png": {
+      "frame": {
+        "x": 505,
+        "y": 605,
+        "w": 66,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_wing_star.png": {
+      "frame": {
+        "x": 632,
+        "y": 495,
+        "w": 66,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_wing_star.png": {
+      "frame": {
+        "x": 950,
+        "y": 382,
+        "w": 66,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_strand_00.png": {
+      "frame": {
+        "x": 435,
+        "y": 762,
+        "w": 53,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_wand_02.png": {
+      "frame": {
+        "x": 596,
+        "y": 533,
+        "w": 27,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_magic_vortex_flare.png": {
+      "frame": {
+        "x": 725,
+        "y": 456,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_magic_flare.png": {
+      "frame": {
+        "x": 397,
+        "y": 893,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_0.png": {
+      "frame": {
+        "x": 490,
+        "y": 671,
+        "w": 61,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_shoulder_6.png": {
+      "frame": {
+        "x": 796,
+        "y": 441,
+        "w": 30,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_shoulder_2.png": {
+      "frame": {
+        "x": 631,
+        "y": 561,
+        "w": 29,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv3_tail.png": {
+      "frame": {
+        "x": 337,
+        "y": 288,
+        "w": 66,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 40
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv2_tail.png": {
+      "frame": {
+        "x": 397,
+        "y": 957,
+        "w": 66,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 40
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_tail.png": {
+      "frame": {
+        "x": 434,
+        "y": 834,
+        "w": 66,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 40
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_tail.png": {
+      "frame": {
+        "x": 496,
+        "y": 729,
+        "w": 66,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 40
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_strand_03.png": {
+      "frame": {
+        "x": 164,
+        "y": 563,
+        "w": 71,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 37
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_3_r.png": {
+      "frame": {
+        "x": 706,
+        "y": 520,
+        "w": 33,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_3.png": {
+      "frame": {
+        "x": 950,
+        "y": 448,
+        "w": 33,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_4.png": {
+      "frame": {
+        "x": 559,
+        "y": 671,
+        "w": 66,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_6.png": {
+      "frame": {
+        "x": 461,
+        "y": 882,
+        "w": 41,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 41,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_left_00.png": {
+      "frame": {
+        "x": 276,
+        "y": 661,
+        "w": 48,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 51
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_closed_left.png": {
+      "frame": {
+        "x": 885,
+        "y": 466,
+        "w": 48,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 51
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hair_back_00.png": {
+      "frame": {
+        "x": 747,
+        "y": 520,
+        "w": 38,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 63
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_3.png": {
+      "frame": {
+        "x": 286,
+        "y": 168,
+        "w": 39,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 61
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_strand_02.png": {
+      "frame": {
+        "x": 496,
+        "y": 777,
+        "w": 62,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 37
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_left_02.png": {
+      "frame": {
+        "x": 471,
+        "y": 952,
+        "w": 45,
+        "h": 49
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 49
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_left_01.png": {
+      "frame": {
+        "x": 508,
+        "y": 822,
+        "w": 45,
+        "h": 49
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 49
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_closed_left-02.png": {
+      "frame": {
+        "x": 668,
+        "y": 607,
+        "w": 45,
+        "h": 49
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 49
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_forearm_6.png": {
+      "frame": {
+        "x": 991,
+        "y": 448,
+        "w": 25,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_forearm_3.png": {
+      "frame": {
+        "x": 834,
+        "y": 484,
+        "w": 24,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_belt_3.png": {
+      "frame": {
+        "x": 570,
+        "y": 718,
+        "w": 73,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 29
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_forearm_2.png": {
+      "frame": {
+        "x": 793,
+        "y": 546,
+        "w": 25,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 84
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_belt_2.png": {
+      "frame": {
+        "x": 510,
+        "y": 879,
+        "w": 74,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 27
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_2_r.png": {
+      "frame": {
+        "x": 570,
+        "y": 755,
+        "w": 35,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_5.png": {
+      "frame": {
+        "x": 866,
+        "y": 525,
+        "w": 30,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_left_03.png": {
+      "frame": {
+        "x": 651,
+        "y": 668,
+        "w": 43,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 43,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_belt_4.png": {
+      "frame": {
+        "x": 721,
+        "y": 607,
+        "w": 55,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_under.png": {
+      "frame": {
+        "x": 904,
+        "y": 525,
+        "w": 32,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_foot_2_l.png": {
+      "frame": {
+        "x": 524,
+        "y": 914,
+        "w": 31,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_2.png": {
+      "frame": {
+        "x": 944,
+        "y": 535,
+        "w": 26,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_waist.png": {
+      "frame": {
+        "x": 337,
+        "y": 985,
+        "w": 48,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_fist_01.png": {
+      "frame": {
+        "x": 561,
+        "y": 822,
+        "w": 35,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_strand_01.png": {
+      "frame": {
+        "x": 631,
+        "y": 172,
+        "w": 50,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 29
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_2-1.png": {
+      "frame": {
+        "x": 480,
+        "y": 350,
+        "w": 27,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_fist.png": {
+      "frame": {
+        "x": 524,
+        "y": 977,
+        "w": 30,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 41
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hand_thumbUp.png": {
+      "frame": {
+        "x": 613,
+        "y": 755,
+        "w": 25,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_mouth_02.png": {
+      "frame": {
+        "x": 524,
+        "y": 492,
+        "w": 30,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_eye_shut_left.png": {
+      "frame": {
+        "x": 978,
+        "y": 543,
+        "w": 35,
+        "h": 28
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 28
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_right.png": {
+      "frame": {
+        "x": 632,
+        "y": 453,
+        "w": 27,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_hair_left.png": {
+      "frame": {
+        "x": 668,
+        "y": 561,
+        "w": 27,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_right_03.png": {
+      "frame": {
+        "x": 243,
+        "y": 563,
+        "w": 24,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 36
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_right_00.png": {
+      "frame": {
+        "x": 826,
+        "y": 581,
+        "w": 22,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 22,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 22,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_closed_right.png": {
+      "frame": {
+        "x": 702,
+        "y": 664,
+        "w": 22,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 22,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 22,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_closed_right-02.png": {
+      "frame": {
+        "x": 651,
+        "y": 720,
+        "w": 21,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_right_02.png": {
+      "frame": {
+        "x": 732,
+        "y": 648,
+        "w": 22,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 22,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 22,
+        "h": 31
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_wing_star.png": {
+      "frame": {
+        "x": 394,
+        "y": 133,
+        "w": 28,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_eye_right_01.png": {
+      "frame": {
+        "x": 563,
+        "y": 914,
+        "w": 21,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 31
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_mouth.png": {
+      "frame": {
+        "x": 110,
+        "y": 721,
+        "w": 30,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_ear_left.png": {
+      "frame": {
+        "x": 604,
+        "y": 819,
+        "w": 21,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 27
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_nose.png": {
+      "frame": {
+        "x": 563,
+        "y": 953,
+        "w": 20,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 27
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hatmagic_lv1_wing_star_shadow.png": {
+      "frame": {
+        "x": 148,
+        "y": 721,
+        "w": 28,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 19
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_hat_wing_star_shadow.png": {
+      "frame": {
+        "x": 184,
+        "y": 721,
+        "w": 28,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 19
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_wand_handle.png": {
+      "frame": {
+        "x": 411,
+        "y": 288,
+        "w": 13,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 34
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_mouth_03.png": {
+      "frame": {
+        "x": 4,
+        "y": 1007,
+        "w": 29,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 15
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_ear_left-2.png": {
+      "frame": {
+        "x": 775,
+        "y": 172,
+        "w": 17,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_mouth_04.png": {
+      "frame": {
+        "x": 41,
+        "y": 1007,
+        "w": 27,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 14
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_eye_shut_right.png": {
+      "frame": {
+        "x": 775,
+        "y": 204,
+        "w": 17,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 22
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_head_nose_02.png": {
+      "frame": {
+        "x": 748,
+        "y": 270,
+        "w": 18,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 18
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "stella/stella_eyebrow_left.png": {
+      "frame": {
+        "x": 76,
+        "y": 1007,
+        "w": 32,
+        "h": 9
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 9
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "stella.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}

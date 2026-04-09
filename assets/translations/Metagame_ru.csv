@@ -1,0 +1,416 @@
+bw3_influencer_campaign_message1,"Загляни в гости и получи звездную пыль"
+bw3_influencer_campaign_message2,"В моем видео ты найдешь полезные советы!"
+bw3_influencer_campaign_message3,"{insert name} тоже ждет тебя в гости"
+bw3_influencer_campaign_message4,"Опубликуй фото моего дома и отметь меня"
+bw3_influencer_campaign_message5,"Добро пожаловать в мой дом! Нравится?"
+bw3_influencer_campaign_message6,"Друзья, добро пожаловать в мой дом!"
+bw3_influencer_campaign_name_1,"Звезды
+Стеллы"
+bw3_influencer_campaign_name_2,"Звезды Стеллы"
+library_buttons_back,Назад
+library_buttons_full_screen,"На весь экран"
+library_buttons_share,Рассказать
+library_generic_coming_soon_pre-reg,"Уже скоро!"
+library_generic_free,Бесплатно
+library_store_coming_soon_on_mobile,"Скоро на мобильных!"
+metagame_cats_activate,"Играй с котиком {0}"
+metagame_cats_activate2,Включить
+metagame_cats_activate_by_use,"Активируй в этом раунде котика {0}"
+metagame_cats_arcane_presentation,"Это Пак. Он поможет тебе, добавив взрывной шарик в начале уровня."
+metagame_cats_cutscene_01,"Вчера вечером прилетели четыре звездные кошки! Они очень устали!"
+metagame_cats_cutscene_02,"У меня есть порция энергетического зелья чтобы помочь кому-то одному."
+metagame_cats_cutscene_03,"К счастью, у меня есть немного бодрящего зелья, чтобы помочь кому-то из них!"
+metagame_cats_cutscene_04,"Продолжай строить дом Стеллы, чтобы получить больше энергетического зелья."
+metagame_cats_duration,"Действует {0}"
+metagame_cats_end_c2,"Ты просто молодчина. Звездные кошки тобой гордятся!"
+metagame_cats_end_in,"Конец через: {0}"
+metagame_cats_energy_potion,"Энергетическое зелье"
+metagame_cats_eri,Эри
+metagame_cats_fairies_presentation,"Это Лира. Она добавит фей в начале уровня."
+metagame_cats_in_use_info,"{0} готов(-а)"
+metagame_cats_leo,Лео
+metagame_cats_lyra,Лира
+metagame_cats_magic_potion,"Молодчина! Вот тебе энергетическое зелье."
+metagame_cats_max_level,"Ты на максимальном уровне"
+metagame_cats_max_upgrade,"Максимальный уровень"
+metagame_cats_notification_title,"Bubble Witch 3 Saga"
+metagame_cats_on_use_tutorial,"Звездные коты больше не устают. Теперь их можно активировать на том уровне, на котором ты играешь."
+metagame_cats_onboarding_first_use_arcane,"Пак добавляет взрывные шарики в начале уровня."
+metagame_cats_onboarding_first_use_fairies,"Лира добавляет в начале уровня фей."
+metagame_cats_onboarding_first_use_orb,"В начале уровня Эри заряжает сферу силой"
+metagame_cats_onboarding_first_use_score,"Лео дает в начале уровня очки, чтобы тебе было легче получить 3 звезды."
+metagame_cats_onboarding_multicat,"Давай сыграем с новой подругой!"
+metagame_cats_onboarding_play,"Давай позовем новую подругу на следующий уровень!"
+metagame_cats_onboarding_second_use_arcane,"Пак опять готов тебе помогать!"
+metagame_cats_onboarding_second_use_fairies,"Лира опять готова тебе помогать!"
+metagame_cats_onboarding_second_use_orb,"Эри опять готова тебе помогать!"
+metagame_cats_onboarding_second_use_score,"Лео опять готов тебе помогать!"
+metagame_cats_onboarding_sleep_arcane,"Паку нужно немного отдохнуть. Скоро он будет готов."
+metagame_cats_onboarding_sleep_fairies,"Лире нужно немного отдохнуть. Скоро она будет готова."
+metagame_cats_onboarding_sleep_orb,"Эри нужно немного отдохнуть. Скоро она будет готова."
+metagame_cats_onboarding_sleep_score,"Лео нужно немного отдохнуть. Скоро он будет готов."
+metagame_cats_orb_presentation,"Это Эри. Эри заряжает сферу в начале уровня"
+metagame_cats_price_change,"Смотри! Активация звездной кошки сейчас дешевле, но эта скидка временная!"
+metagame_cats_puck,Пак
+metagame_cats_ready_in,"Проснется через {0}"
+metagame_cats_remember,"Звездные кошки могут помочь! Поиграй с ними."
+metagame_cats_score_presentation,"Это Лео, который добавит очков, и тебе будет проще заработать 3 звезды."
+metagame_cats_short_arcane,"Добавляет взрывные шарики в начале уровня"
+metagame_cats_short_fairy,"Добавляет фей в начале уровня"
+metagame_cats_short_orb,"Заряжает сферу в начале уровня"
+metagame_cats_short_score,"Дает очки, чтобы было легче заработать 3 звезды."
+metagame_cats_unlock_info,"Продолжай строить, чтобы получить энергетическое зелье"
+metagame_cats_unlock_popup_title,"Разбуди звездную кошку"
+metagame_cats_unlockpopup_step1,"Получи энергетическое зелье"
+metagame_cats_unlockpopup_step2,Взбодрись
+metagame_cats_unlockpopup_step3,"Новая звездная кошка"
+metagame_changes_onfire,"Стелла стала мудрее! Выиграв несколько раз подряд, ты получишь больше шариков для стрельбы!"
+metagame_cookie_help,"Продолжай строить, чтобы получить волшебную печеньку"
+metagame_cookie_onboarding,"У меня есть для тебя волшебная печенька, которая сделает сильнее звездную кошку"
+metagame_finish,Создать
+metagame_house_bubblific,Волшебно!
+metagame_house_build_hint,"Что ты хочешь переделать?"
+metagame_house_button_build,Строить
+metagame_house_button_home,Домой
+metagame_house_button_influencer_video,Видео
+metagame_house_button_map,Карта
+metagame_house_buy_soft1,Нужно
+metagame_house_buy_soft2,"Хочешь купить?"
+metagame_house_buy_title,"Купи домик Стеллы"
+metagame_house_chest,"А вот и награда!"
+metagame_house_coming_soon,"Пока в игре не появятся новые участки, есть время отдохнуть"
+metagame_house_congratulations,Поздравляем!
+metagame_house_cooking_free,Бесплатно!
+metagame_house_cooking_info,"Дострой домик Стеллы, чтобы открыть чудо-печку."
+metagame_house_cooking_invest,"Замешай звездную пыль и приготовь случайное заклинание!"
+metagame_house_cooking_notification,"Пора доставать заклинание из чудо-печки!"
+metagame_house_cooking_spell,"Приготовь заклинание"
+metagame_house_cooking_spells,Заклинания
+metagame_house_cooking_title,Чудо-печка
+metagame_house_cooking_tuto1,"Тебе доступна чудо-печка!"
+metagame_house_cooking_tuto2,"Давай приготовим заклинание!"
+metagame_house_cutscene_1,"О, нет! Неужели Уильмур похитил Королеву фей?"
+metagame_house_cutscene_2,"Теперь Сказочный лес утратил свою магию!"
+metagame_house_cutscene_3,"Стелла, пожалуйста, помоги нам!"
+metagame_house_cutscene_4,"Вот, возьми звездной пыли!"
+metagame_house_cutscene_5,"Спасибо! С ее помощью я верну волшебство Сказочному лесу!"
+metagame_house_cutscene_6,"Ты — наша единственная надежда спасти Королеву фей!"
+metagame_house_fairies_comeback,"Феи закончились. Если хочешь еще звездной пыли — возвращайся через {0} ч!"
+metagame_house_fairy_hint,"Получи еще звездную пыль, заработав больше звезд!"
+metagame_house_fairy_tutorial,"Пощекочи фей, чтобы получить звездную пыль"
+metagame_house_firstrankup,"У тебя вот столько звезд: {0}! Члены ведьмсовета под глубоким впечатлением. Тебя повысили до ранга"
+metagame_house_friendsbar_popup,"Заходи в гости к друзьям, чтобы собрать больше звездной пыли!"
+metagame_house_friendsbar_title,"Посети друзей!"
+metagame_house_house1_finished,"Получилось! Домик Стеллы готов!"
+metagame_house_like_button,Нравится!
+metagame_house_mission01_intro,"Помоги мне восстановить это место, чтобы оно обрело прежний вид!"
+metagame_house_mission01_outro,"Уютный домик и башенка для наблюдения за звездами! Что еще нужно ведьме? Отличная работа!"
+metagame_house_mission02_intro,"Давай еще что-нибудь добавим для комфорта!"
+metagame_house_mission02_outro,"Прекрасно! На этой скамье поместится не менее двадцати фей!"
+metagame_house_mission03_intro,"А теперь давай улучшим окрестности!"
+metagame_house_mission03_outro,"Наконец у совушек будет место, где они смогут оставлять письма!"
+metagame_house_mission04_intro,"У тебя хороший вкус в ведьм-дизайне! Не подскажешь, как нам улучшить эти области?"
+metagame_house_mission04_outro,"Мастерская полностью преобразилась! И даже эти старые камни привносят магию!"
+metagame_house_mission05_intro,"С помощью звездной пыли мы сможем улучшить то, что добавили раньше!"
+metagame_house_mission05_outro,"Потрясающие! Чудо-деревья охраняют дом и поддерживают неторопливое общение!"
+metagame_house_mission06_intro,"Улучшения — это здорово! Давай улучшим что-нибудь еще!"
+metagame_house_mission06_outro,"Посмотри на этот дом! Вроде бы наколдованный, а не отличишь от настоящего!"
+metagame_house_mission07_intro,"Тут стало гораздо уютнее! Ты явно умеешь обращаться со звездной пылью!"
+metagame_house_mission07_outro,"Я и не представляла, что здесь может быть так хорошо! Дом-мечта!"
+metagame_house_mission08_intro,"Давай-ка добавим блеска! И не забудь про почтовый ящик!"
+metagame_house_mission08_outro,"Ура! Вот так перемены! А помнишь, как тут было раньше?"
+metagame_house_mission09_intro,"Тебя не остановить! А сможешь сделать все это еще лучше?"
+metagame_house_mission09_outro,"Тебе удалось превзойти себя! Невероятно!"
+metagame_house_mission10_intro,"Мы создаем самый чудесный уголок в Сказочном лесу!"
+metagame_house_mission10_outro,"Здесь бы каждый был рад поселиться!"
+metagame_house_mission11_intro,"С твоим опытом мы сможем значительно улучшить это место!"
+metagame_house_mission11_outro,"Вот что я называю ОТЛИЧНОЙ РАБОТОЙ! Не могу насмотреться!"
+metagame_house_mission12_intro,"Этот домик уже давненько не ремонтировался. Пора это сделать!"
+metagame_house_mission12_outro,"Пышно, но успокаивающе! Какое чудесное место!"
+metagame_house_mission13_intro,"Знаешь что? Мы можем сделать еще лучше!"
+metagame_house_mission13_outro,"Класс! Я знала, что это будет смотреться чудесно!"
+metagame_house_mission14_intro,"Эта сказка еще не закончилась..."
+metagame_house_mission14_outro,"Потрясающие! Уже хочется посмотреть, как Неро здесь дремлет."
+metagame_house_mission15_intro,"Ставлю тебе задачу сделать этот сад еще более поразительным!"
+metagame_house_mission15_outro,"Вкусно!... Ой, то есть... Волшебно!"
+metagame_house_mission16_intro,"Больше дом — значит, можно позвать больше гостей!"
+metagame_house_mission16_outro," Шарикарно! Интересно, что там у нас на очереди..."
+metagame_house_mission17_intro,"Смотри, волшебное растение! Давай удобрим его звездной пылью и посмотрим, что будет!"
+metagame_house_mission18_intro,"Звездные кошки любят поспать. Давай приготовим для них уютное местечко."
+metagame_house_mission19_intro,"Здесь достаточно места для волшебного стола!"
+metagame_house_mission1_middle,"Ой, звездная пыль закончилась! Я расскажу тебе, как получить еще."
+metagame_house_mission20_intro,"Сделай ванну, чтобы звездные кошки были чистыми и пушистыми."
+metagame_house_mission21_intro,"Звездные кошки могут спать где угодно. Добавь еще всякой всячины, пусть они чувствуют себя как дома."
+metagame_house_mission22_intro,"Звездные кошки любят цветы"
+metagame_house_mission23_intro,"Что тут можно сделать? Ну-ка, посмотрим!"
+metagame_house_mission24_intro,"Здесь у нас все просто замечательно! Так держать!"
+metagame_house_mission25_intro,"Пусть звучит музыка!"
+metagame_house_mission26_intro,"Давай поищем магию в этих книгах"
+metagame_house_mission27_intro,"В жизни всегда есть место для новой подушки"
+metagame_house_mission28_intro,"Кто сказал, что кошки не любят воду?"
+metagame_house_mission29_intro,"Отличное спальное место"
+metagame_house_mission30_intro,"Для кошки нет игрушки лучше, чем коробка"
+metagame_house_mission31_intro,"Стелла всегда со звездными кошками"
+metagame_house_mission32_intro,"Все любят большие цветы"
+metagame_house_mission33_intro,"Этим кошкам нужно задать ритм"
+metagame_house_mission34_intro,"Здесь у нас все просто замечательно! Давай облагородим вон тот пруд."
+metagame_house_mission35_intro,"С таким телескопом мы можем дотянуться до звезд."
+metagame_house_mission36_intro,"Лира любит играть с тем тентом."
+metagame_house_mission37_intro,"Звездные кошки любят играть с подушками."
+metagame_house_mission38_intro,"Интересно, многие ли кошки смогут спать в такой кровати..."
+metagame_house_mission39_intro,"Кто сказал, что кошки не любят воду?"
+metagame_house_mission40_intro,"Здесь у нас все чудесно! Интересно, что можно улучшить..."
+metagame_house_mission_complete,"Спасибо тебе за то, что Сказочный лес стал красивее!"
+metagame_house_mission_hint01,"Уже не дождусь, когда увижу это... Скажешь, когда будет готово!"
+metagame_house_mission_hint02,"Мы с тобой отличная команда! Помни, что каждое усилие вознаграждается!"
+metagame_house_mission_hint03,"Продолжай, у тебя отлично получается!"
+metagame_house_mission_hint04,"В этот раз даже лучше, чем в прошлый! Уже не дождусь, когда все будет готово!"
+metagame_house_mission_hint05,"Так не терпится устроить здесь пикник с Королевой фей!"
+metagame_house_mission_hint06,"Сложно поверить в то, что это все сделано из звездной пыли!"
+metagame_house_needmorerank,"Тебе нужен ранг {0}, для этого получи больше звезд!"
+metagame_house_new_likes_text,"Новые отметки «Нравится!»."
+metagame_house_notenoughsoft,"Нужно больше звездной пыли!"
+metagame_house_oldplayers_popup01,"Пока Стелла пыталась остановить Уильмура, ее дом развалился! Феи предоставили новый дом, который ты можешь обустроить на свой вкус, используя звездную пыль."
+metagame_house_oldplayers_popup02,"Зарабатывай звезды, чтобы получить еще звездной пыли!"
+metagame_house_party_end,"Be ready for future Fairy Fiesta events at your friends' homes!"
+metagame_house_photo,Фото
+metagame_house_plant_presentation,"Это чудесный новый дом для звездных кошек!"
+metagame_house_presentation_fairy01,"Ого!... Ты уже здесь?! Ты и правда талантливая ведьма!"
+metagame_house_presentation_fairy02,"Почему бы тебе не выбрать, как будет выглядеть твой дом? Используй звездную пыль!"
+metagame_house_presentation_stella01,"Как... уютно!"
+metagame_house_rank,Ранг
+metagame_house_rank_needed,"Ой! Чтобы продолжить улучшение, тебе нужен ранг {0}."
+metagame_house_rankup,"Поздравляем! Ведьмсовет повысил тебя до ранга"
+metagame_house_ready,Готово
+metagame_house_revamp,Улучшить
+metagame_house_revamp_to_level,"{0}: улучши до уровня {1}"
+metagame_house_rewards_popup,"Продолжай улучшать жилище Стеллы, чтобы получить больше наград"
+metagame_house_rewards_popup_home,"Улучшай дом"
+metagame_house_rewards_popup_levels,"Получай звезды"
+metagame_house_rewards_popup_rewards,"Выигрывай призы"
+metagame_house_rewards_title,"Получи больше наград!"
+metagame_house_select_style_text,"Выбери, что тебе больше всего нравится!"
+metagame_house_select_style_title,Выбери
+metagame_house_style_one_text,Фантазия
+metagame_house_style_three_text,Кошки
+metagame_house_style_two_text,Хэллоуин
+metagame_house_timer_days,д
+metagame_house_timer_hours,ч
+metagame_house_timer_minutes,м
+metagame_house_timer_seconds,с
+metagame_house_tooltip_building_not_finished,"Прежде чем начинать новую реконструкцию, заверши прежнюю."
+metagame_house_tutorial_buildmode,"Теперь у тебя достаточно звездной пыли!"
+metagame_house_tutorial_buildpiece,"Давай здесь все переделаем!"
+metagame_house_tutorial_friends,"Навести других игроков, чтобы посмотреть их дома и заработать звездную пыль для обустройства своего!"
+metagame_house_tutorial_notenough,"Нужно больше звездной пыли? Сходи в гости к друзьям!"
+metagame_house_tutorial_purpose,"Продолжай собирать звезды, чтобы получать больше предложений и наград!"
+metagame_house_unlock_hint,"Откроется на уровне {0}"
+metagame_house_unlock_hint_text,"Доступна новая область!"
+metagame_house_unlockpiece,"Ты получаешь ранг {0}! Открыта новая область!"
+metagame_house_update_text,"Обновите игру Bubble Witch 3 Saga, чтобы видеть эти новинки в домах своих друзей."
+metagame_house_you,Ты
+metagame_house_zone00,Почта
+metagame_house_zone01,Скамья
+metagame_house_zone02,Дорожка
+metagame_house_zone03,Дерево
+metagame_house_zone04,Дом
+metagame_house_zone05,Башня
+metagame_house_zone06,Сад
+metagame_house_zone07,Колодец
+metagame_house_zone08,Чудо-дерево
+metagame_house_zone09,"Волшебные камни"
+metagame_house_zone10,Дверь
+metagame_house_zone11,Мастерская
+metagame_house_zone12,Растение
+metagame_house_zone13,Стол
+metagame_house_zone14,Диван
+metagame_house_zone15,Полка
+metagame_house_zone16,Фото
+metagame_house_zone17,Кухня
+metagame_house_zone18,Ванна
+metagame_house_zone19,Лежак
+metagame_house_zone20,Дымоход
+metagame_house_zone21,Лестница
+metagame_house_zone22,Коврик
+metagame_house_zone23,Сундук
+metagame_house_zone24,Кровать
+metagame_house_zone25,Грибы
+metagame_house_zone26,Лестница
+metagame_house_zone27,Фортепиано
+metagame_house_zone28,Барабаны
+metagame_house_zone29,Цветы
+metagame_house_zone30,Арфа
+metagame_house_zone31,Окна
+metagame_house_zone32,Купель
+metagame_house_zone33,Лестница
+metagame_house_zone34,"Барная стойка"
+metagame_house_zone35,Капельки
+metagame_house_zone36,Обед
+metagame_house_zone37,Пруд
+metagame_house_zone38,Тент
+metagame_house_zone39,Библиотека
+metagame_house_zone40,Лестница
+metagame_house_zone41,Коробки
+metagame_house_zone42,Сумка
+metagame_house_zone43,Качели-балансир
+metagame_house_zone44,Телескоп
+metagame_local_notification_cats_awake,"{0} уже не спит и жаждет помочь!"
+metagame_middle_reward,"У меня есть кое-что для тебя. Закончи обустройство — и получишь."
+metagame_milk_onboarding,"У меня есть для тебя энергетическое зелье, которое сделает сильнее звездную кошку"
+metagame_profile_first_upgrade,"Потрясающе! Ты получаешь первую медаль!"
+metagame_profile_onboarding_1,"Ого! У тебя 3 новых медали!"
+metagame_profile_onboarding_2,"Коснись медали, чтобы узнать, как ее улучшить."
+metagame_profile_onboarding_3,"Давай выясним, какое задание тебе удалось открыть!"
+metagame_profile_onboarding_4,"Попробуй улучшить эти медали, приближаясь к соответствующим целям."
+metagame_profile_onboarding_4a,"Улучшай медали, двигаясь к соответствующим целям!"
+metagame_profile_onboarding_old_users,"Задания видоизменились. Теперь медали можно найти повсюду в игре!"
+metagame_profile_talent_6_definition,"Бросай черные шарики в вихрь."
+metagame_profile_talent_6_title,"Черный град"
+metagame_profile_talent_bouncer_master_definition,"Стреляй так, чтобы шарики отскакивали от границ поля."
+metagame_profile_talent_bouncer_master_title,"Мастер рикошета"
+metagame_profile_talent_complete_daily_bonus_definition,"Играй каждый день и получай сундук с золотом."
+metagame_profile_talent_complete_daily_bonus_title,"Подарок дня от Флинна"
+metagame_profile_talent_destroy_bats_definition,"Прогони летучих мышей."
+metagame_profile_talent_destroy_bats_title,"Охотник на кожанов"
+metagame_profile_talent_destroy_bubbles_definition,"Лопай шарики всех цветов."
+metagame_profile_talent_destroy_bubbles_title,"Сборщик шариков"
+metagame_profile_talent_destroy_dubblies_definition,"Убирай с игрового поля шароксероксы."
+metagame_profile_talent_destroy_dubblies_title,Шароксерокруто
+metagame_profile_talent_destroy_frogsties_definition,"Лови лягушат, чтобы отправить их в вихрь."
+metagame_profile_talent_destroy_frogsties_title,"Отлавливай лягушат"
+metagame_profile_talent_destroy_leaves_definition,"Стреляй по шарикам через листья."
+metagame_profile_talent_destroy_leaves_title,"Простреливай листья"
+metagame_profile_talent_destroy_mirrors_definition,"Убирай с игрового поля зеркала."
+metagame_profile_talent_destroy_mirrors_title,"Отражай зеркала"
+metagame_profile_talent_explode_directional_lineblast_definition,"Выпускай огненные стрелы."
+metagame_profile_talent_explode_directional_lineblast_title,"Направленный взрыв"
+metagame_profile_talent_explode_fairy_nest_definition,"Взрывай гнезда фей."
+metagame_profile_talent_explode_fairy_nest_title,"Гнездо феи"
+metagame_profile_talent_magic_beam_definition,"Взрывай шарики волшебным лучом."
+metagame_profile_talent_magic_beam_title,"Волшебное заклинание"
+metagame_profile_talent_on_fire_definition,"Пройди уровень с помощью огненного заклинания."
+metagame_profile_talent_on_fire_title,"Огненное заклинание"
+metagame_profile_talent_peek_a_boo_definition,"Сыграй в прятки и найди всех."
+metagame_profile_talent_peek_a_boo_title,Прятки
+metagame_profile_talent_release_fairies_definition,"Освободи фей, заточенных в шарики."
+metagame_profile_talent_release_fairies_title,"Свободу феям!"
+metagame_profile_talent_release_owls_definition,"Освобождай совушек из шариков."
+metagame_profile_talent_release_owls_title,"Знаток языка сов"
+metagame_profile_talent_share_definition,"Делись волшебством с друзьями."
+metagame_profile_talent_share_title,"Делись волшебством"
+metagame_profile_talent_shoot_orb_definition,"Используй силу сферы."
+metagame_profile_talent_shoot_orb_title,"Наполнитель сфер"
+metagame_profile_talent_sparkling_blast_title,"Искрящееся заклинание"
+metagame_profile_talent_sparkling_blastl_definition,"Взрывай шарики, используя искрящийся взрыв."
+metagame_profile_talent_star_cat_definition,"Проходи уровни с помощью заклинания звездных котят."
+metagame_profile_talent_star_cat_title,"Заклинание звездных кошек"
+metagame_profile_talent_stereo_bolt_definition,"Взрывай шарики стереомолнией."
+metagame_profile_talent_stereo_bolt_title,"Заклинатель молний"
+metagame_profile_talent_tap_fairies_definition,"Касайся фей в домах друзей."
+metagame_profile_talent_tap_fairies_title,"Друг фей"
+metagame_profile_talent_title,Медали
+metagame_profile_unlock_info,"Медали можно найти по пути!"
+metagame_quest_beat_level_info,"Ты что, хочешь спасти Королеву фей? Ха-ха-ха! Не смеши меня! Бьюсь об заклад, что ты не пройдешь даже уровень {0}."
+metagame_quest_beat_level_text,"Пройди уровень {0}"
+metagame_quest_beat_level_title,"Все ближе к Уильмуру"
+metagame_quest_break_any_info,"Скоро мы спасем Королеву фей! Но нужно потренироваться. Лопни {0} шт. шариков любого цвета."
+metagame_quest_break_any_text,"Лопни {0} шт. шариков любого цвета"
+metagame_quest_break_any_title,"Помни основы"
+metagame_quest_break_blue_bubbles_text,"Взорви {0} шт. синих шариков"
+metagame_quest_break_blue_bubbles_title,"Синий взрыв"
+metagame_quest_break_bounce_any,"Лопни {0} шт. шариков любого цвета через рикошет"
+metagame_quest_break_green_bubbles_text,"Взорви {0} шт. зеленых шариков"
+metagame_quest_break_green_bubbles_title,"Зеленый взрыв"
+metagame_quest_break_purple_bubbles_text,"Взорви {0} шт. лиловых шариков"
+metagame_quest_break_purple_bubbles_title,"Лиловый взрыв"
+metagame_quest_break_red_bubbles_text,"Взорви {0} шт. красных шариков"
+metagame_quest_break_red_bubbles_title,"Алый взрыв"
+metagame_quest_break_yellow_bubbles_text,"Взорви {0} шт. желтых шариков"
+metagame_quest_break_yellow_bubbles_title,"Желтый взрыв"
+metagame_quest_build_piece_text,"Переоборудуй части своего дома"
+metagame_quest_build_piece_title,"Дом, милый дом"
+metagame_quest_buttons_continue,Приступим!
+metagame_quest_buttons_go,Вперед
+metagame_quest_change_nickname_text,"Смени ник"
+metagame_quest_claim_button,Взять
+metagame_quest_claim_swipe,"Возьми свою награду!"
+metagame_quest_daily_title,Задание!
+metagame_quest_destroy_arcane_text,"Лопни {0} шт. взрывных шариков"
+metagame_quest_destroy_arcane_title,"Мощный взрыв"
+metagame_quest_destroy_bat_text,"Взорви {0} шт. летучих мышей"
+metagame_quest_destroy_bat_title,Мышевзрыв
+metagame_quest_destroy_black_text,"Взорви {0} шт. черных шариков"
+metagame_quest_destroy_black_title,"Взрыв черных шариков"
+metagame_quest_destroy_bonus_text,"Взорви {0} шт. шариков доп. ходов: "
+metagame_quest_destroy_bonus_title,"Взрыв доп. ходов"
+metagame_quest_destroy_directional_text,"Выпусти {0} шт. огненных стрел"
+metagame_quest_destroy_directional_title,"Взрыв огненных стрел"
+metagame_quest_destroy_duo_text,"Взорви {0} шт. дубль-шариков"
+metagame_quest_destroy_duo_title,Дубль-взрыв
+metagame_quest_destroy_golem_text,"Взорви {0} шт. големов"
+metagame_quest_destroy_golem_title,"Взрыв големов"
+metagame_quest_destroy_ice_text,"Взорви {0} шт. ледяных шариков"
+metagame_quest_destroy_ice_title,"Взрыв льда"
+metagame_quest_destroy_lineblast_text,"Активируй линейные взрывы {0} раз(а)."
+metagame_quest_destroy_lineblast_title,"Линейный взрыв"
+metagame_quest_destroy_nest_text,"Взорви {0} шт. гнезд фей"
+metagame_quest_destroy_nest_title,"Взрыв гнезд фей"
+metagame_quest_destroy_spider_text,"Взорви {0} шт. паутин"
+metagame_quest_destroy_spider_title,"Взрыв паука"
+metagame_quest_drop_any_text,"Обрушь {0} шт. шариков любого цвета"
+metagame_quest_drop_any_title,"Жадный вихрь"
+metagame_quest_drop_black_text,"Обрушь {0} шт. черных шариков"
+metagame_quest_drop_black_title,"Черные шарики в жадном вихре"
+metagame_quest_drop_clone_text,"Обрушь {0} шт. шариков-клонов"
+metagame_quest_drop_duo_text,"Обрушь {0} шт. дубль-шариков"
+metagame_quest_drop_duo_title,"Дубль-шарики в жадном вихре"
+metagame_quest_drop_golem_text,"Обрушь {0} шт. големов"
+metagame_quest_drop_golem_title,"Жадный вихрь големов"
+metagame_quest_drop_spider_text,"Обрушь {0} шт. паутин"
+metagame_quest_drop_spider_title,"Паутины в жадном вихре"
+metagame_quest_gain_soft_text,"Собери в домах друзей пузырьки со звездной пылью: {0} шт."
+metagame_quest_gain_soft_title,"Гонка за феями"
+metagame_quest_give_orb_text,"Чтобы наполнить помощника силой, дай ему шарики: {0} шт."
+metagame_quest_give_orb_title,"Пузырьковая сила"
+metagame_quest_invite_text,"Пригласи друга играть вместе"
+metagame_quest_list_title,Задания
+metagame_quest_match_any_text,"Совмести {0} шт. шариков любого цвета"
+metagame_quest_match_any_title,Комбинатор
+metagame_quest_new,Новинка!
+metagame_quest_orb_any_info,"Смотри, чему я научился во время своих приключений! Используй эту силу, чтобы лопнуть {0} шт. шариков любого цвета!"
+metagame_quest_orb_any_text,"Лопни {0} шт. шариков любого цвета, используя силу сферы"
+metagame_quest_orb_any_title,"Новые трюки Неро"
+metagame_quest_orb_blue_text,"Взорви {0} шт. синих шариков, используя силу сферы"
+metagame_quest_orb_give_text,"Тебе нужно {0} шт. шариков, чтобы наполнить сферу"
+metagame_quest_orb_give_title,"Дай мне шариков!"
+metagame_quest_orb_green_text,"Взорви {0} шт. зеленых шариков, используя силу сферы"
+metagame_quest_orb_purple_text,"Взорви {0} шт. фиолетовых шариков, используя силу сферы"
+metagame_quest_orb_red_text,"Взорви {0} шт. красных шариков, используя силу сферы"
+metagame_quest_orb_yellow_text,"Взорви {0} шт. желтых шариков, используя силу сферы"
+metagame_quest_pass_friend_any_text,"Обгони любого друга на карте"
+metagame_quest_pass_friend_text,"Обгони друга {friend} на карте"
+metagame_quest_pass_friend_title,"Забег по шарикам"
+metagame_quest_rankup_text,"Получи ранг {0}"
+metagame_quest_rankup_title,"Сильная ведьма"
+metagame_quest_release_fairies_text,"Освободи фей: {0}"
+metagame_quest_release_fairies_title,Сказка
+metagame_quest_reward_text,Награда
+metagame_quest_share_text,"Поделись фотографией своего дома"
+metagame_quest_tap_fairies_text,"Коснись фей ({0}) в домах друзей"
+metagame_quest_toaster_text,"Задание выполнено!"
+metagame_quest_tomorrow_0_text,"Новое задание — в 00:00"
+metagame_quest_tomorrow_16_text,"Новое задание — в 16:00"
+metagame_quest_tomorrow_8_text,"Новое задание — в 08:00"
+metagame_quest_tomorrow_text,"До задания:"
+metagame_quest_tutorial_claim_info,"Чудесно! Тебе удалось выполнить задание! Забери свою награду!"
+metagame_quest_tutorial_claim_title,"Возьми свою награду!"
+metagame_quest_tutorial_welcome_info,"Неро хочет стать могущественным волшебником. Выполняй задания, чтобы помочь ему и получить фантастические награды!"
+metagame_quest_tutorial_welcome_title,"Учебные задания для Неро!"
+metagame_quest_unlock,"Чтобы начать обучение, дойди до уровня {0}!"
+metagame_quests_connect_hard_text,"Сохрани свой прогресс"
+metagame_quests_facebook_text,"Подключись к Facebook"
+metagame_quests_facebook_title,"С друзьями лучше!"
+metagame_star_dust_explanation,"Зарабатывай звезды! Они превратятся в звездную пыль для улучшения твоего дома."
+metagame_succes_test_pet_intro,"Это Руби, и она какое-то время будет тебе помогать. Наслаждайся!"
+metagame_succes_test_pet_outro,"Руби устала, ей нужно поспать. Спасибо, что играешь с ней."
+metagame_unlock_cat_onboarding,"У меня для тебя есть кое-что волшебное"

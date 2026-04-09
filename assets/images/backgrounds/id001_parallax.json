@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "id001gm_parallax/id001gm_layer_01.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 310,
+        "h": 238
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "id001gm_parallax/id001gm_layer_02.png": {
+      "frame": {
+        "x": 319,
+        "y": 3,
+        "w": 250,
+        "h": 285
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 285
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 285
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "id001gm_parallax/id001gm_layer_03.png": {
+      "frame": {
+        "x": 3,
+        "y": 247,
+        "w": 180,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 228
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "id001gm_parallax/id001gm_sky.png": {
+      "frame": {
+        "x": 189,
+        "y": 294,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "id001gm_parallax/id001gm_layer_01_b.png": {
+      "frame": {
+        "x": 323,
+        "y": 294,
+        "w": 14,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 112
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "id001gm_parallax.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": "1"
+  }
+}

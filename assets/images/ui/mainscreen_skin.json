@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "mainscreen_skin/mainscreen.png": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 594,
+        "h": 1188
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 594,
+        "h": 1188
+      },
+      "sourceSize": {
+        "w": 594,
+        "h": 1188
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mainscreen_skin/main_screen_glow.png": {
+      "frame": {
+        "x": 606,
+        "y": 4,
+        "w": 145,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 173
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mainscreen_skin/bubble_lineblast_ray_c.png": {
+      "frame": {
+        "x": 759,
+        "y": 4,
+        "w": 128,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mainscreen_skin/bubble_lineblast_ray.png": {
+      "frame": {
+        "x": 895,
+        "y": 4,
+        "w": 128,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mainscreen_skin/mainscreen_sky.png": {
+      "frame": {
+        "x": 759,
+        "y": 99,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mainscreen_skin/main_screen_cloud_03.png": {
+      "frame": {
+        "x": 831,
+        "y": 99,
+        "w": 14,
+        "h": 10
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 10
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 10
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mainscreen_skin/main_screen_cloud_04.png": {
+      "frame": {
+        "x": 853,
+        "y": 99,
+        "w": 8,
+        "h": 7
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 7
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 7
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "king-to-phaser-converter",
+    "version": "1.0",
+    "image": "mainscreen_skin.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 2048
+    },
+    "scale": "1"
+  }
+}

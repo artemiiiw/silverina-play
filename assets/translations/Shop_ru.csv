@@ -1,0 +1,55 @@
+iape_goldbar_balance_earned,Заработано:
+iape_goldbar_balance_free,Бесплатно:
+iape_goldbar_balance_lastupdated,"Последнее обновление:"
+iape_goldbar_balance_purchased,Куплено:
+iape_goldbar_balance_title,"Твои золотые слитки"
+iape_goldbard_balance_notavailable,Н/Д
+iape_goldbard_balance_updatein24h,"Информация будет обновлена в течение 24 часов"
+library_store_best_value,"Лучший вариант"
+popup_shop_last_chance,"Последний шанс!"
+shop_banner_name,Виолетта
+shop_bundles,Комплекты
+shop_button_show_less,Меньше
+shop_button_show_more,Больше
+shop_button_special_offer,Акция
+shop_celebration_violet,"Замечательно! Твоя покупка прошла успешно!"
+shop_daily_offers,"Ежедневные акции"
+shop_delayed_purchase_success_text,"Мы подтверждаем твою покупку золотых слитков. Извини за проволочку!"
+shop_error_after_payment_message,"Возникла техническая неполадка. Обратись в службу поддержки!"
+shop_error_after_payment_title,"Сбой при покупке"
+shop_error_already_pending_message,"У тебя уже оформляется одна покупка."
+shop_error_already_pending_title,"Не так быстро"
+shop_error_help_me,"Мне нужна помощь"
+shop_error_more_info,Подробнее
+shop_error_no_connection_title,"Нет соединения!"
+shop_error_product_outdated_message,"Этот товар больше не продается"
+shop_error_product_outdated_title,"Товар распродан"
+shop_error_product_unavailable_message,"Товар недоступен. Повтори попытку через несколько минут."
+shop_error_product_unavailable_title,"Не тот товар"
+shop_error_purchase_canceled_message,"Ты отменил(-а) покупку"
+shop_error_purchase_canceled_title,"Покупка отменена"
+shop_error_purchase_deferred_message,"Нужно, чтобы родители одобрили твою покупку."
+shop_error_purchase_deferred_title,"Покупка отложена"
+shop_error_purchase_pending_message,"Лавка работает медленно. Скоро ты получишь купленный товар."
+shop_error_purchase_pending_title,Приостановлено
+shop_error_shop_downtime_message,"В данный момент товаров нет"
+shop_error_shop_downtime_title,"Лавка закрыта"
+shop_error_shop_unreachable_message,"Лавка сейчас не работает."
+shop_error_shop_unreachable_title,"Не работает"
+shop_error_unknown_message,"Возникла проблема. Средства не списаны. Обратись в службу поддержки, если проблема не исчезнет."
+shop_goldbars,"Золотые слитки"
+shop_limited_offer,"Временная акция"
+shop_more_offers,"Другие предложения"
+shop_new_name,"Магазин
+Виолетты"
+shop_popular,Хит
+shop_purchase_success_message,"Покупка состоялась"
+shop_recommended,Спецпредложение!
+shop_recommended2,"Рекомендуем тебе!"
+shop_sale_title,Акция!
+shop_sales_title,Акции
+shop_sales_valentine,"Акции ко Дню Валентина"
+shop_sales_violet,"Ого! Какое чудесное предложение!"
+shop_title,"Волшебная лавка"
+shopr_error_unknown_message,"Возникла проблема. Счет не выставлен. Узнай об этом подробнее или обратись к нам, если проблема не исчезнет."
+shopr_error_unknown_title,Ой...

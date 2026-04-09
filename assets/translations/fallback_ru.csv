@@ -1,0 +1,24 @@
+gifting20.error.already_used,"Похоже, подарок уже забран..."
+gifting20.error.already_used.button,Ясно!
+gifting20.error.already_used.title,Гхм...
+gifting20.error.expired,"Подарок пропал. В следующий раз постарайся забрать его до того, как истечет время."
+gifting20.error.expired.button,Ясно!
+gifting20.error.expired.title,"О, нет!"
+gifting20.error.generic,"Кое-что случилось с твоим подарком, но мы уже работаем над этим. Скоро все отправим."
+gifting20.error.generic.button,Ясно!
+gifting20.error.generic.title,Ой-ой...
+gifting20.error.gone.support,"Прости, кажется, подарок пропал. Свяжись со службой поддержки: support@king.com"
+gifting20.error.minimum_version,"Мы не смогли доставить ваш подарок, так как что у вас установлена устаревшая версия игры. Обновите игру, чтобы получить подарок!"
+gifting20.error.minimum_version.button,Хорошо
+gifting20.error.minimum_version.title,Ой...
+gifting20.error.network,"Проверь подключение и попробуй забрать подарок снова."
+gifting20.error.network.button,Ясно!
+gifting20.error.network.noicon,"Мы отправим подарок, как только ты подключишься к интернету."
+gifting20.error.network.title,"Нет интернета!"
+gifting20.error.transient,"Вернись на карту и снова коснись подарка, чтобы забрать его."
+gifting20.error.transient.button,Ладушки!
+gifting20.error.transient.noicon,"Ой-ой! Что-то пошло не так. Мы отправим тебе подарок чуть позже."
+gifting20.error.transient.title,Ой-ой...
+gifting20.error.unknown,"Ой... Мы не смогли найти этот код. Пожалуйста, проверь его и попробуй снова."
+gifting20.error.unknown.button,Ясно!
+gifting20.error.unknown.title,Ой-ой...
